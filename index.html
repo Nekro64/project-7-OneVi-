@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>OneVi - Wirtualny Asystent</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+      <div id="pageContainer">
+        <header>
+          <div id="headerLogoContainer">
+            <img src="" alt="L" class="logo">
+            <div class="companyName">OneVi</div>
+            <div class="companyText">Agencja  <span>Wi</span>rtualnych Asystentów</div>
+          </div>
+        </header>
+        <nav>
+          <ul id="navOptionsContainer">
+            <li>
+              <img src="" alt="l" class="menuOptionLogo">
+              <div class="menuOptionName">Reaserch</div>
+            </li>
+            <li>
+              <img src="" alt="" class="menuOptionLogo">
+              <div class="menuOptionName">1</div>
+            </li>
+            <li>
+              <img src="" alt="" class="menuOptionLogo">
+              <div class="menuOptionName"></div>
+            </li>
+            <li>
+              <img src="" alt="" class="menuOptionLogo">
+              <div class="menuOptionName"></div>
+            </li>
+            <li>
+              <img src="" alt="" class="menuOptionLogo">
+              <div class="menuOptionName"></div>
+            </li>
+            <li>
+              <img src="" alt="" class="menuOptionLogo">
+              <div class="menuOptionName"></div>
+            </li>
+            <li>
+              <img src="" alt="" class="menuOptionLogo">
+              <div class="menuOptionName"></div>
+            </li>
+            <li>
+              <img src="" alt="" class="menuOptionLogo">
+              <div class="menuOptionName"></div>
+            </li>
+            <li>
+              <img src="" alt="" class="menuOptionLogo">
+              <div class="menuOptionName"></div>
+            </li>
+            <li>
+              <img src="" alt="" class="menuOptionLogo">
+              <div class="menuOptionName"></div>
+            </li>
+            <li>
+              <img src="" alt="" class="menuOptionLogo">
+              <div class="menuOptionName"></div>
+            </li>
+            <li>
+              <img src="" alt="" class="menuOptionLogo">
+              <div class="menuOptionName"></div>
+            </li>
+            <li>
+              <img src="" alt="" class="menuOptionLogo">
+              <div class="menuOptionName"></div>
+            </li>
+            <li>
+              <img src="" alt="" class="menuOptionLogo">
+              <div class="menuOptionName"></div>
+            </li>
+          </ul>
+        </nav>
+
+        <div class="menuOptionNameAfter">Przeprowadzimy za ciebie reaserch</div>
+      </div>
+
+      <script>
+          let liElements = document.querySelectorAll("#navOptionsContainer > li");
+          let nav = document.querySelector("nav");
+          let liIndex;
+
+
+          
+
+          nav.addEventListener("mouseover", function(e){
+            liElements.forEach((element, index) => {
+            console.log(index);
+          });
+            console.log(e.target);
+            console.log(liElements[0])
+            console.log(liIndex)
+          })
+      </script>
+    </body>
+</html>

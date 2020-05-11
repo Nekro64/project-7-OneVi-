@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW X8 -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="36mm"
+   height="36mm"
+   version="1.1"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 3600 3600"
+   id="svg27"
+   sodipodi:docname="translation.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata31"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview29"
+   showgrid="false"
+   inkscape:zoom="1.7286111"
+   inkscape:cx="60.447314"
+   inkscape:cy="80.639479"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg27" />
+ <defs
+   id="defs4">
+  <style
+   type="text/css"
+   id="style2">
+   <![CDATA[
+    .str0 {stroke:#2B2A29;stroke-width:20}
+    .fil0 {fill:#FEFEFE}
+    .fil1 {fill:#E31E24}
+   ]]>
+  </style>
+ </defs>
+ <g
+   id="Warstwa_x0020_1"
+   transform="matrix(0.77728287,0,0,0.68692359,-2764.223,-517.90019)">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <polygon
+   class="fil0 str0"
+   points="3751,2180 4811,1581 5870,982 6930,1581 7989,2180 7989,3377 7989,4575 6930,5174 5870,5772 4811,5174 3751,4575 3751,3377 "
+   id="polygon7"
+   style="fill:#fefefe;stroke:#2b2a29;stroke-width:20" />
+  <g
+   id="_1916989569824">
+   <g
+   id="g23">
+    <path
+   class="fil1"
+   d="m 5400,2480 v 126 h 349 v 452 h -145 c 0,-80 31,-60 -204,-60 v 349 h -145 v -349 h -199 v 72 h -132 v -464 h 325 v -199 c 53,0 112,-5 163,6 -6,23 -12,38 -12,67 z m -856,-235 v 1259 c 0,43 33,95 57,117 30,27 70,51 124,51 h 1235 c 98,0 180,-88 180,-187 V 2263 c 0,-101 -85,-187 -186,-187 H 4725 c -54,0 -94,24 -122,53 -26,26 -59,67 -59,116 z"
+   id="path9"
+   inkscape:connector-curvature="0"
+   style="fill:#e31e24" />
+    <path
+   class="fil1"
+   d="m 6195,4323 h -145 l 31,-96 c 11,-28 24,-64 35,-92 l 185,-513 c 17,-54 -6,-40 189,-40 24,0 66,148 76,177 l 164,468 c 10,29 28,65 31,96 h -157 c -5,-25 -16,-54 -25,-78 -8,-21 -19,-59 -29,-79 h -301 c -2,23 -44,138 -54,157 z m 36,-838 c 0,150 -123,278 -271,278 h -386 v 758 c 0,93 82,181 175,181 h 1259 c 78,0 162,-90 162,-168 V 3287 c 0,-97 -84,-181 -198,-181 h -741 z"
+   id="path11"
+   inkscape:connector-curvature="0"
+   style="fill:#e31e24" />
+    <path
+   class="fil1"
+   d="m 4731,3967 c 0,300 254,548 566,548 v -186 c -189,-16 -333,-121 -369,-306 -17,-89 49,-74 -197,-74 z"
+   id="path13"
+   inkscape:connector-curvature="0"
+   style="fill:#e31e24" />
+    <path
+   class="fil1"
+   d="m 6418,2456 c 214,0 373,161 373,373 h 193 c 0,-97 -19,-170 -56,-245 -99,-197 -283,-321 -510,-321 z"
+   id="path15"
+   inkscape:connector-curvature="0"
+   style="fill:#e31e24" />
+    <polygon
+   class="fil1"
+   points="5604,2715 5400,2715 5400,2895 5604,2895 "
+   id="polygon17"
+   style="fill:#e31e24" />
+    <path
+   class="fil1"
+   d="m 6297,4046 h 211 c -2,-28 -13,-56 -22,-81 -10,-30 -17,-55 -26,-83 -8,-27 -17,-49 -25,-77 -6,-19 -22,-64 -23,-85 h -13 c -3,39 -38,119 -51,159 -13,37 -50,133 -51,167 z"
+   id="path19"
+   inkscape:connector-curvature="0"
+   style="fill:#e31e24" />
+    <polygon
+   class="fil1"
+   points="5255,2715 5056,2715 5056,2895 5255,2895 "
+   id="polygon21"
+   style="fill:#e31e24" />
+   </g>
+  </g>
+ </g>
+</svg>

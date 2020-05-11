@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW X8 -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="36mm"
+   height="36mm"
+   version="1.1"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 3600 3600"
+   id="svg131"
+   sodipodi:docname="planning.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata135"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview133"
+   showgrid="false"
+   inkscape:zoom="1.2223126"
+   inkscape:cx="69.897072"
+   inkscape:cy="80.38632"
+   inkscape:window-x="358"
+   inkscape:window-y="163"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg131" />
+ <defs
+   id="defs123">
+  <style
+   type="text/css"
+   id="style121">
+   <![CDATA[
+    .str0 {stroke:#2B2A29;stroke-width:20}
+    .fil0 {fill:#FEFEFE}
+    .fil1 {fill:#E31E24}
+   ]]>
+  </style>
+ </defs>
+ <g
+   id="Warstwa_x0020_1"
+   transform="matrix(0.87249483,0,0,0.79137433,-2914.1564,-1042.2821)">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <polygon
+   class="fil0 str0"
+   points="6277,2051 7191,2568 7191,3601 7191,4635 6277,5152 5362,5669 4448,5152 3534,4635 3534,3601 3534,2568 4448,2051 5362,1534 "
+   id="polygon126"
+   style="fill:#fefefe;stroke:#2b2a29;stroke-width:20" />
+  <path
+   class="fil1"
+   d="m 4870,3929 v 205 h -193 v -205 z m 0,-964 v 205 h -193 l 1,-205 z m 392,964 v 205 h -186 v -205 z m 1,-963 v 204 h -187 l 1,-204 z m 392,963 v 205 h -187 l 1,-205 z m 7,-963 c 0,39 -9,38 -6,74 4,64 12,66 -1,131 h -186 v -205 z m 392,963 v 205 h -193 v -205 z m 0,-963 v 205 h -193 v -205 z m 339,-227 -2061,-1 c -63,0 -47,128 -47,174 0,74 124,53 193,53 v 205 c -69,0 -193,-21 -193,53 v 645 c 0,83 91,61 193,61 v 205 c -207,0 -193,-25 -193,174 0,21 28,53 46,53 l 2062,1 c 73,0 60,-98 60,-159 0,-92 -109,-69 -200,-69 v -204 c 55,0 157,10 181,-14 5,-5 19,-29 19,-39 v -653 c 0,-75 -127,-53 -199,-53 v -205 c 203,0 199,20 199,-159 0,-38 -27,-68 -60,-68 z"
+   id="path128"
+   inkscape:connector-curvature="0"
+   style="fill:#e31e24" />
+ </g>
+</svg>

@@ -1,83 +1,137 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>OneVi - Wirtualny Asystent</title>
-        <link rel="stylesheet" href="style.css">
-    </head>
 
-    <body>
-      <div id="pageContainer">
-        <header>
-          <div id="headerLogoContainer">
-            <img src="" alt="L" class="logo">
-            <div class="companyName">OneVi</div>
-            <div class="companyText">Agencja  <span>Wi</span>rtualnych Asystentów</div>
-          </div>
-        </header>
-        <nav>
-          <ul id="navOptionsContainer">
-            <li>
-              <img src="" alt="l" class="menuOptionLogo">
-              <div class="menuOptionName">Reaserch</div>
-            </li>
-            <li>
-              <img src="" alt="" class="menuOptionLogo">
-              <div class="menuOptionName"></div>
-            </li>
-            <li>
-              <img src="" alt="" class="menuOptionLogo">
-              <div class="menuOptionName"></div>
-            </li>
-            <li>
-              <img src="" alt="" class="menuOptionLogo">
-              <div class="menuOptionName"></div>
-            </li>
-            <li>
-              <img src="" alt="" class="menuOptionLogo">
-              <div class="menuOptionName"></div>
-            </li>
-            <li>
-              <img src="" alt="" class="menuOptionLogo">
-              <div class="menuOptionName"></div>
-            </li>
-            <li>
-              <img src="" alt="" class="menuOptionLogo">
-              <div class="menuOptionName"></div>
-            </li>
-            <li>
-              <img src="" alt="" class="menuOptionLogo">
-              <div class="menuOptionName"></div>
-            </li>
-            <li>
-              <img src="" alt="" class="menuOptionLogo">
-              <div class="menuOptionName"></div>
-            </li>
-            <li>
-              <img src="" alt="" class="menuOptionLogo">
-              <div class="menuOptionName"></div>
-            </li>
-            <li>
-              <img src="" alt="" class="menuOptionLogo">
-              <div class="menuOptionName"></div>
-            </li>
-            <li>
-              <img src="" alt="" class="menuOptionLogo">
-              <div class="menuOptionName"></div>
-            </li>
-            <li>
-              <img src="" alt="" class="menuOptionLogo">
-              <div class="menuOptionName"></div>
-            </li>
-            <li>
-              <img src="" alt="" class="menuOptionLogo">
-              <div class="menuOptionName"></div>
-            </li>
-          </ul>
-        </nav>
+<head>
+  <title>OneVi - Wirtualny Asystent</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div id="pageContainer">
+    <header>
+      <div id="headerLogoContainer">
+        <img src="img/logo.svg" alt="L" class="logo">
+        <div class="companyName">OneVi</div>
+        <div class="companyText">Agencja <span>Wi</span>rtualnych Asystentów</div>
       </div>
+    </header>
+    <nav>
+      <ul id="navOptionsContainer">
+        <li>
+          <img src="img/reaserch.svg" alt="R" class="menuOptionLogo">
+          <div class="menuOptionName"><a href="reaserch.html">Reaserch</a></div>
+        </li>  
+        <li>
+          <img src="img/prop.svg" alt="R" class="menuOptionLogo">
+          <div class="menuOptionName"><a href="prop.html">Rekwizyty</a></div>
+        </li>
+        <li>
+          <img src="img/planning.svg" alt="P" class="menuOptionLogo">
+          <div class="menuOptionName"><a href="planning.html">Plan Filmu</a></div>
+        </li>
+        <li>
+          <img src="img/translation.svg" alt="T" class="menuOptionLogo">
+          <div class="menuOptionName"><a href="translation.html">Tłumaczenie</a></div>
+        </li>
+        <li>
+          <img src="img/description.svg" alt="R" class="menuOptionLogo">
+          <div class="menuOptionName"><a href="description.html">Rozbudowany Opis</a></div>
+        </li>
+        <li>
+          <img src="img/meeting.svg" alt="S" class="menuOptionLogo">
+          <div class="menuOptionName"><a href="meeting.html">Spotkania nagraniowe</a></div>
+        </li>
+        <li>
+          <img src="img/algorithm.svg" alt="A" class="menuOptionLogo">
+          <div class="menuOptionName"><a href="algorithm.html">Zgodność z Algorytmem</a></div>
+        </li>
+        <li>
+          <img src="img/contact.svg" alt="M" class="menuOptionLogo">
+          <div class="menuOptionName"><a href="contact.html">Kontakty Marketingowe</a></div>
+        </li>
+        <li>
+          <img src="img/visual.svg" alt="W" class="menuOptionLogo">
+          <div class="menuOptionName"><a href="visual.html">Warstwa wizualna</a></div>
+        </li>
+        <li>
+          <img src="img/transcription.svg" alt="T" class="menuOptionLogo">
+          <div class="menuOptionName"><a href="transcription.html">Transkrypcja</a></div>
+        </li>
+        <li>
+          <img src="img/promo.svg" alt="P" class="menuOptionLogo">
+          <div class="menuOptionName"><a href="promo.html">Promowanie</a></div>
+        </li>
+        <li>
+          <img src="img/comments.svg" alt="K" class="menuOptionLogo">
+          <div class="menuOptionName"><a href="comments.html">Komentarze</a></div>
+        </li>
+        <li>
+          <img src="" alt="P" class="menuOptionLogo">
+          <div class="menuOptionName"><a href="permition.html">Pozwolenia</a></div>
+        </li>
+        <li>
+          <img src="img/editing.svg" alt="M" class="menuOptionLogo">
+          <div class="menuOptionName"><a href="editing.html">Montaż</a></div>
+        </li>        
+      </ul>
+      
+      <div id="rightMenuContainer">
+        <div>Oferta <img src="" alt="?"></div>
+        <div>Kontakt <img src="" alt="?"></div>
+        <div>O nas <img src="" alt="?"></div>
+      </div>
+    </nav>
+    
+  </div>
 
-      <script>
+  <script>
+    let liMenuElements = document.querySelectorAll("#navOptionsContainer > li");
+    let ulMenuElement = document.querySelector("#navOptionsContainer");
+    let menuAfterElement = document.querySelector(".navMenuAfterStyle")
+    let liContentValue;
+    let contentArray = [
+      `Nie trać czasu na szukanie informacji po całym internecie. Przygotujemy dla Ciebie jeden plik z którego łatwo przyswoisz wiedzę!`,
+      "Potrzebujesz zorganizować rekwizyty? Załatwimy to!",
+      "Przygotujemy dla Ciebie plan który zoptymalizuje czas trwania nagrań i zwolni Twoją głowę od myślenia o sprawach organizacyjnych.",
+      "Dotrzyj do tych co po Polsku mówić nie potrafią!",
+      "Chociaż nikt go nie czyta to warto o nim pamiętać :)",
+      "Potrzebujesz zorganizować osoby do nagrania. Dopilnujemy by każdy stawił się na miejscu o właściwej porze",
+      "Nikt nie wie jak dokładnie działa, ale warto próbować :)",
+      "Zadbamy o to by Twój sponsor wysłał produkty na czas, zapłacił za nagranie/zdjęcie lub współpracował przy kolejnych produkcjach.",
+      "Miniaturki, Grafiki, Loga, Backgroundy. Wszystko co potrzebujesz by wizualnie Twój kanał był jeszcze lepszy!",
+      "To co mówisz, my zapiszemy!",
+      "Dotrzyj ze swoim kontentem do większej ilości ludzi!",
+      "Widzowie czują się bardziej docenieni gdy dostaną serduszko a twórca odpowie na ich komentarz. Nie zawsze musi być to twórca ale cii, nie mów im :)",
+      'Starsza pani z okna krzyczy "KTO WAM POZWOLIŁ NAGRYWAĆ?! WON MI STĄD". Załatw papier i nie pozwól się wygonić!',
+      "Montaż zajmuje zbyt wiele czasu, poświęć go na nagranie kolejnego filmu a wszystkim innym zajmie się nasza ekipa!",
+    ]
 
-      </script>
-    </body>
+    liMenuElements.forEach(function (el, index) {
+      liMenuElements[index].addEventListener("mouseover", function () {
+        liMenuElements[index].classList.add("navMenuAfterStyle");
+        switch (index) {
+          case index:
+            if (index < contentArray.length) {
+              liContentValue = contentArray[index];
+            } else {
+              liContentValue = "Wejdź i sprawdź!"
+            }
+            break;
+          default:
+            liContentValue = "Sprawdź dodatkowe informacje wchodząc w zakładkę";
+        }
+        liMenuElements[index].setAttribute("data-after", liContentValue);
+      });
+      liMenuElements[index].addEventListener("mouseleave", function () {
+        liMenuElements[index].classList.remove("navMenuAfterStyle");
+      });
+
+      liMenuElements[1].addEventListener("click", function(){
+        window.location.href = "reaserch.html";
+      })
+
+    });
+  </script>
+</body>
+
 </html>
